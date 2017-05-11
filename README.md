@@ -1,10 +1,10 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+[Fuction, using to solve square equation ax2 + bx + c = 0, where a, b, c — numbers (a ≠ 0), x — unknown variable.]
 
 # How to Use
 
-[TODO]
+[Put into the function. For exmaple get_roots(1, -2, 4) ]
 
 # How to Launch Tests
 
