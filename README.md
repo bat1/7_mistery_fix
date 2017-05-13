@@ -1,6 +1,6 @@
 # Quadratic Equations Solver
 
-[Fuction, using to solve square equation ax2 + bx + c = 0, where a, b, c — numbers (a ≠ 0), x — unknown variable.]
+[Fuction, using to solve quadratic equation ax2 + bx + c = 0, where a, b, c — numbers (a ≠ 0), x — unknown variable.]
 
 # How to Use
 
