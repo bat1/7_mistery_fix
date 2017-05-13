@@ -1,5 +1,5 @@
 #Исключим директорию __pycache__ :
-__pycache__/
+__pycache__
 #Исключим сам файл .gitignore:
 .gitignoregit 
 .gitignore
